@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+p{ 
+
+  color: aqua;
+  text-decoration: dotted;
+
+}
+
+.text_link{
+
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-around ;
+  gap: 10px;
+}
